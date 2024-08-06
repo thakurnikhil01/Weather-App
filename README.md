@@ -68,7 +68,7 @@ Feel free to fork the repository and submit pull requests if you would like to c
 
 ## Contact
 
-For any questions or feedback, please contact me at [mailto:kshtariya.nikhil2002@gmail.com].
+For any questions or feedback, please contact me at kshtariya.nikhil2002@gmail.com.
 
 ---
 
